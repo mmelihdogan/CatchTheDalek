@@ -1,0 +1,2 @@
+rootProject.name = "Catch The Dalek"
+include ':app'
